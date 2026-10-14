@@ -30,5 +30,6 @@
   "requirements": [
     "reolink-aio @ https://github.com/andrebrait/reolink_aio/archive/26986524a800966d6c1803f2c4237c384996f2b7.zip"
   ],
-  "version": "2026.10.1"
+  "version": "2026.10.1",
+  "issue_tracker": "https://github.com/andrebrait/ha-reolink-sigver-fix/issues"
 }
